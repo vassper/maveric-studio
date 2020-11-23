@@ -1,0 +1,2 @@
+# maveric-studio
+GitHub Pages
